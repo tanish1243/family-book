@@ -1,0 +1,15 @@
+body {
+    text-align:center;
+    }
+    #images {
+    width:300px;
+    border-radius:30px;
+    border-style: ridge;
+    height:400px;
+    
+    }
+    #reasontext {
+    font-size:40px;
+    font-family:algerian;
+    color:black; 
+    }
